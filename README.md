@@ -25,7 +25,6 @@
 <p/>
 <br>
 <p/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonahhh&layout=compact">
-
-
+![Hyeonahhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonahhh&show_icons=true&theme=tokyonight)
+![Hyeonahhh's github stats](https://github-readme-stats.vercel.app/api?username=hyeonahhh&show_icons=true&theme=tokyonight)
 
