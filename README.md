@@ -11,7 +11,6 @@
 <a href="https://www.notion.so/0b4fd84080cc4b9c96a1da77d189a867">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
 
 <h3>My Skills</h3>
 <div>
@@ -23,4 +22,8 @@
  <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=Css3&logoColor=white" /><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+
+
 
